@@ -1,4 +1,4 @@
-# vaccine-covid-italy
+# Covid-19 daily vaccination data in Italy
 ## Daily data of the vaccine to Covid-19 in Italy.
 
 
