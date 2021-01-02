@@ -6,4 +6,4 @@ This (**unofficial**) repository will contain the daily data of the vaccine to C
 
 
 
-The data are actually in raw format but will be converted in a more readable way as soon as possibile.
+The data are actually in raw format but will be converted in a more readable way (json format) as soon as possibile.
